@@ -1,0 +1,8 @@
+$DNA="atgggccatgtcgattatacccggacactccgggtccagctttacgatgccagccgcttt
+catgatggtgcgacggcggaacaggctggtgaactgcacaccgtcgcattcagtaaaccc
+gcgattgccgatgatattcagaaaattgtcgataccactgccgaggtgctcggtaaacgg
+tacagcgttaacgtattctcgaactga";
+$amino_acid="MGHVDYTRTLRVQLYDASRFHDGATAEQAGELHTVAFSKPAIADDIQKIVDTTAEVLGKR
+YSVNVFSN";
+$a=$DNA.$amino_acid;
+print"$a";
